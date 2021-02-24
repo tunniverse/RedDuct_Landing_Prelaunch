@@ -1,2 +1,2 @@
 # RedDuct_Landing_Prelaunch
-Testing concept of RedDuct
+Testing concept of RedDuct and see how seller response.
